@@ -1,5 +1,5 @@
 # k-Nearest Neighbours Cultural Engagement Analysis
-Using the k-nearest neighbours algorithm to allow a prediction on how many people will engage with a type of culture based on multiple factors.
+Using the k-nearest neighbours algorithm to allow a prediction of how many people will engage with a type of culture based on multiple factors.
 ---
 
 ### Data analysis
