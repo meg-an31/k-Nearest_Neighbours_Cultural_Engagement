@@ -1,0 +1,100 @@
+AVG(V.PERCENTAGE_PHYSICAL),AVG(V.PERCENTAGE_DIGITAL),WIDE_AREA_NAME,SUM(F.EXPENDITURE),ID_TIME,NAME
+70.000000,20.000000,London,8556,20232024,Museums
+61.000000,19.000000,London,1450,20232024,Museums
+58.000000,15.000000,London,1254,20222023,Museums
+57.000000,16.000000,London,9238,20222023,Museums
+54.000000,19.000000,London,1422,20232024,Museums
+53.000000,15.000000,London,377,20232024,Museums
+49.000000,14.000000,South East (England),7357,20232024,Museums
+49.000000,14.000000,Yorkshire and The Humber,996,20232024,Museums
+48.000000,15.000000,South East (England),4617,20232024,Museums
+47.000000,15.000000,London,2826,20232024,Museums
+46.000000,13.000000,North West (England),492,20232024,Museums
+45.000000,,London,9134,20212022,Museums
+44.000000,13.000000,South West (England),8314,20232024,Museums
+44.000000,,London,1555,20212022,Museums
+43.000000,11.000000,South West (England),8048,20232024,Museums
+43.000000,14.000000,East,2817,20232024,Museums
+42.000000,13.000000,South East (England),2790,20232024,Museums
+42.000000,12.000000,North West (England),1517,20232024,Museums
+42.000000,11.000000,London,571,20222023,Museums
+42.000000,12.000000,South West (England),118,20232024,Museums
+41.000000,13.000000,North West (England),16216,20232024,Museums
+41.000000,12.000000,South East (England),4288,20232024,Museums
+41.000000,13.000000,East,2216,20232024,Museums
+41.000000,13.000000,South West (England),1776,20232024,Museums
+40.000000,12.000000,London,9249,20222023,Museums
+40.000000,12.000000,Yorkshire and The Humber,6393,20232024,Museums
+40.000000,11.000000,North East (England),4446,20232024,Museums
+40.000000,13.000000,West Midlands (England),4248,20232024,Museums
+40.000000,11.000000,North West (England),1602,20232024,Museums
+39.000000,11.000000,East Midlands (England),8151,20232024,Museums
+39.000000,10.000000,South East (England),4067,20222023,Museums
+38.000000,12.000000,Yorkshire and The Humber,14151,20232024,Museums
+38.000000,10.000000,Yorkshire and The Humber,6457,20232024,Museums
+38.000000,12.000000,East,6401,20232024,Museums
+38.000000,11.000000,North East (England),5635,20232024,Museums
+37.000000,11.000000,South East (England),6643,20222023,Museums
+37.000000,11.000000,East Midlands (England),4606,20232024,Museums
+37.000000,12.000000,West Midlands (England),3331,20232024,Museums
+35.000000,11.000000,North West (England),4907,20232024,Museums
+35.000000,11.000000,East Midlands (England),3838,20232024,Museums
+35.000000,11.000000,London,2870,20222023,Museums
+35.000000,9.000000,North West (England),999,20222023,Museums
+34.000000,6.000000,South West (England),7617,20222023,Museums
+34.000000,7.000000,Yorkshire and The Humber,1819,20222023,Museums
+33.000000,8.000000,East,7217,20222023,Museums
+33.000000,6.000000,North East (England),3374,20222023,Museums
+32.000000,8.000000,South West (England),12769,20222023,Museums
+31.000000,13.000000,West Midlands (England),11582,20232024,Museums
+31.000000,9.000000,East,10736,20222023,Museums
+31.000000,10.000000,East,4596,20222023,Museums
+30.000000,8.000000,East Midlands (England),7604,20222023,Museums
+30.000000,7.000000,Yorkshire and The Humber,5976,20222023,Museums
+30.000000,7.000000,North West (England),983,20222023,Museums
+29.000000,9.000000,South East (England),8356,20222023,Museums
+29.000000,8.000000,North West (England),5585,20222023,Museums
+29.000000,9.000000,South East (England),4154,20222023,Museums
+29.000000,7.000000,North West (England),2076,20222023,Museums
+29.000000,,London,514,20212022,Museums
+29.000000,7.000000,South West (England),118,20222023,Museums
+28.000000,9.000000,North West (England),16255,20222023,Museums
+28.000000,8.000000,Yorkshire and The Humber,14291,20222023,Museums
+28.000000,,London,10071,20212022,Museums
+28.000000,6.000000,Yorkshire and The Humber,7990,20222023,Museums
+28.000000,9.000000,East Midlands (England),4613,20222023,Museums
+27.000000,,South West (England),8089,20212022,Museums
+27.000000,8.000000,South West (England),2164,20222023,Museums
+27.000000,9.000000,West Midlands (England),871,20222023,Museums
+26.000000,,South East (England),7180,20212022,Museums
+26.000000,6.000000,North East (England),5931,20222023,Museums
+26.000000,8.000000,West Midlands (England),4223,20222023,Museums
+26.000000,,Yorkshire and The Humber,1795,20212022,Museums
+25.000000,,South East (England),3663,20212022,Museums
+25.000000,,London,2574,20212022,Museums
+25.000000,7.000000,East Midlands (England),1243,20222023,Museums
+25.000000,,North West (England),923,20212022,Museums
+24.000000,6.000000,West Midlands (England),11542,20222023,Museums
+24.000000,,South East (England),3665,20212022,Museums
+23.000000,,South West (England),12163,20212022,Museums
+23.000000,,East,9419,20212022,Museums
+23.000000,,East,4454,20212022,Museums
+23.000000,,South West (England),70,20212022,Museums
+22.000000,,North East (England),4353,20212022,Museums
+21.000000,,North West (England),16808,20212022,Museums
+21.000000,,South East (England),7906,20212022,Museums
+21.000000,,Yorkshire and The Humber,6341,20212022,Museums
+21.000000,,North East (England),5599,20212022,Museums
+21.000000,,West Midlands (England),4028,20212022,Museums
+21.000000,,South West (England),2148,20212022,Museums
+20.000000,,Yorkshire and The Humber,16766,20212022,Museums
+20.000000,,East Midlands (England),7678,20212022,Museums
+20.000000,,Yorkshire and The Humber,6759,20212022,Museums
+20.000000,,West Midlands (England),5097,20212022,Museums
+20.000000,,East Midlands (England),4058,20212022,Museums
+20.000000,,North West (England),2147,20212022,Museums
+20.000000,,East Midlands (England),1725,20212022,Museums
+19.000000,,East,6395,20212022,Museums
+17.000000,,West Midlands (England),10887,20212022,Museums
+17.000000,,North West (England),1863,20212022,Museums
+16.000000,,North West (England),6878,20212022,Museums
