@@ -17,7 +17,7 @@ I also created a dimensional model to hold data about funding for these differen
 ### Machine learning 
 Combining these two databases allows some inferences to be made with machine learning! My idea was to allow the user to input the location, current level of funding, and number of people engaging with one of the three aforementioned culture types.
 
-Using google colab, and datasets generated using my dimensional database, I have created a k-nearest neighbours model which calculates the estimated percentage of people who will engage with that activity in person. 
+Using google colab, and datasets generated using my dimensional database, I have created a k-nearest neighbours model which calculates the estimated percentage of people who will engage with that activity in person. It defines each existing data reccord as a point in space, and calculates the distance to the k-nearest points. Then, to estimate the percentage engagement for the user's given data, it averages the percentage engagement of the k-nearest points, _weighting them by their distance_. 
 
 ### Problems
 As my dataset is relatively small, it often gives results that are illogical (predicting engagement goes down as funding goes up, for example). 
