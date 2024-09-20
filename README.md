@@ -3,7 +3,7 @@ Using the k-nearest neighbours algorithm (and cleansed, dimensionally structured
 ---
 
 ### Data cleaning + analysis
-I began by combining multiple government datasets on participation in different aspects of culture (the arts, libraries, and heritage sites) which detailed facts about the percentage of people who visited these places in person and online, grouping these stats by demographic and location. I cleaned this data, and structured it in a dimensional database.
+I began by combining multiple government datasets on participation in different aspects of culture (the arts, libraries, museums, and heritage sites) which detailed facts about the percentage of people who visited these places in person and online, grouping these stats by demographic and location. I cleaned this data, and structured it in a dimensional database.
 
 Below is an example of a visualisation of this locational data made in Power BI, in which you can filter data by year, location, and engagement type.
 
